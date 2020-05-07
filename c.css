@@ -1,0 +1,105 @@
+*{
+	margin:0px;
+	padding:0px;
+	font-family:Tahoma;
+	color:white;
+	display:block;
+	background-color:black;
+	text-align:center;
+}
+h2{
+
+padding:10px;
+color:Pink;
+
+}
+.HEAD_FIXED{
+	position:fixed;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  
+  
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: Purple;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.top-right {
+   position: absolute;
+   top: 240px;
+   width:52%;
+   right: 50px;
+   padding:15px;
+}
+h1{
+	font: 30px solid Tahoma;
+	color:Pink;
+	background-color:gray;
+	width:100%;
+	padding:25px;
+	text-align:center;
+	border-bottom-color:1px solid black;
+
+}
+img{
+width:100%;
+height:auto;
+}
+}
+.container {
+ position:relative;
+  font-family: Tahoma;
+  color:white;
+  font-size:140%;
+}
+
+.imgg{
+	float:left;
+	border-color:pink;
+	margin:0px;
+}
+ 
+	
+
+
+.skill_present{
+	text-align:center;
+	list-style:none;
+	 position: absolute;
+     top:150px;
+     right:170px;
+  border: 1px solid Tahoma;
+   width:35%;
+  
+  padding:15px;
+	color:white;
+	background-color:pink;
+}
+   .fact {
+  position: absolute;
+  top: 110px;
+  
+  font-size:25px;
+  color:white;
+  width:100%;
+  
+  padding:30px;
+}

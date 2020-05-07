@@ -1,0 +1,80 @@
+*{
+	background-color:black;
+	font-family:Tahoma;
+	text-align:center;
+	list-style:none;
+	color:white;
+	
+}
+.container {
+ position:relative;
+  font-family: Tahoma;
+  color:white;
+  font-size:140%;
+}
+
+.HEAD_FIXED{
+	position:fixed;
+}
+
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  
+  
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: Yellow;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: Yellow;
+  color: white;
+}
+img{
+width:100%;
+height:auto;
+}
+.FOOT{
+	padding:10px;
+	color:WHITE;
+	background-color:Black;
+	text-align:center;
+	margin:0px;
+	
+}
+ 
+.projectt {
+  position: absolute;
+  top: 105px;
+  right:50px;
+  
+  width:50%;
+  padding:15px;
+  padding-right:15px;
+  
+  }
+  .app{
+  position: absolute;
+  top: 380px;
+  right:50px;
+  
+  width:50%;
+  padding:15px;
+  padding-right:15px;
+  
+  }
+  
